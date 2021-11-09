@@ -3,6 +3,6 @@
 #EXTINF:-1,CCTV5
 http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
 #EXTINF:-1,CCTV16
-https://cctv5ksh5c.v.kcdnvip.com/live/cdrmcctv16_1/index.m3u8
+http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1,湖南卫视
 http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-hd/1.m3u8
