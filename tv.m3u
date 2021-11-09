@@ -10,3 +10,5 @@ http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-hd/1.m3u8
 #EXTINF:-1,浙江卫视
 http://coocaa-ynbit-ws.ifengli.com:2384/live/zsws-hd/1.m3u8
+#EXTINF:-1,东方卫视
+http://coocaa-ynbit-ws.ifengli.com:2384/live/shdfws-hd/1.m3u8
