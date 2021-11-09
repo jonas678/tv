@@ -12,3 +12,11 @@ http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-hd/1.m3u8
 http://coocaa-ynbit-ws.ifengli.com:2384/live/zsws-hd/1.m3u8
 #EXTINF:-1,东方卫视
 http://coocaa-ynbit-ws.ifengli.com:2384/live/shdfws-hd/1.m3u8
+#EXTINF:-1,NOW新闻台
+http://pullhls3948069e.live.126.net/live/a81bbf4543f65a9a6fbeda7bb2f5a76f/playlist.m3u8
+#EXTINF:-1,香港有线体育台
+http://pullhls3948069e.live.126.net/live/e7fb0bb5ac8d0002e71b7c770871a1f3/playlist.m3u8
+#EXTINF:-1,香港有线高清603台
+http://pullhls3948069e.live.126.net/live/3cc64693c2297dde8550b01cb64a3da4/playlist.m3u8
+#EXTINF:-1,香港有线18台
+http://pullhls3948069e.live.126.net/live/4c9453307b0cb78b725bfc75e1dc8b8f/playlist.m3u8
